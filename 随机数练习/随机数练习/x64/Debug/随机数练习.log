@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(05.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01.c
+C:\Users\CD\Desktop\C语言学习\随机数练习\随机数练习\01.c(8,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  随机数练习.vcxproj -> C:\Users\CD\Desktop\C语言学习\随机数练习\x64\Debug\随机数练习.exe

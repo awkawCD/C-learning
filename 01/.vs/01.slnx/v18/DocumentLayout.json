@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93BD4B68-47D1-BA1D-7238-E864E45A2CBE}|01\\01.csproj|c:\\users\\cd\\desktop\\c\u8BED\u8A00\u5B66\u4E60\\01\\01\\learn1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93BD4B68-47D1-BA1D-7238-E864E45A2CBE}|01\\01.csproj|solutionrelative:01\\learn1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "learn1.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\01\\01\\learn1.c",
+              "RelativeDocumentMoniker": "01\\learn1.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\01\\01\\learn1.c",
+              "RelativeToolTip": "01\\learn1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-11T12:35:57.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

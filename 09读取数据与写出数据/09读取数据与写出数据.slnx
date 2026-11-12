@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="09读取数据与写出数据/09读取数据与写出数据.vcxproj" />
+</Solution>

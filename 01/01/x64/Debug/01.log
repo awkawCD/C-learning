@@ -1,0 +1,6 @@
+﻿  练练手.c
+C:\Users\CD\Desktop\C语言学习\01\01\练练手.c(16,9): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“long”
+      C:\Users\CD\Desktop\C语言学习\01\01\练练手.c(16,9):
+      请考虑在格式字符串中使用“%ld”
+  
+  01.vcxproj -> C:\Users\CD\Desktop\C语言学习\01\x64\Debug\01.exe

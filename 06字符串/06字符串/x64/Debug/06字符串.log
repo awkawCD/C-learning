@@ -1,0 +1,2 @@
+﻿  learn3.c
+C:\Users\CD\Desktop\C语言学习\06字符串\06字符串\learn3.c(27,2): error C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.

@@ -1,0 +1,5 @@
+﻿  learn1.c
+  learn2.c
+C:\Users\CD\Desktop\C语言学习\05指针进阶\05指针进阶\learn2.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  05指针进阶.vcxproj -> C:\Users\CD\Desktop\C语言学习\05指针进阶\x64\Debug\project.exe

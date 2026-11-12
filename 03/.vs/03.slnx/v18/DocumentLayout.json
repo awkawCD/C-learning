@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D58C328F-F23A-4EA7-9151-8502439F1D35}|03\\03.vcxproj|C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D58C328F-F23A-4EA7-9151-8502439F1D35}|03\\03.vcxproj|solutionrelative:03\\learn1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03A.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03\\03A.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58C328F-F23A-4EA7-9151-8502439F1D35}|03\\03.vcxproj|C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D58C328F-F23A-4EA7-9151-8502439F1D35}|03\\03.vcxproj|solutionrelative:03\\learn3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58C328F-F23A-4EA7-9151-8502439F1D35}|03\\03.vcxproj|C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D58C328F-F23A-4EA7-9151-8502439F1D35}|03\\03.vcxproj|solutionrelative:03\\learn2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03B.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03\\03B.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03\\03C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "learn3.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn3.c",
+              "RelativeDocumentMoniker": "03\\learn3.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn3.c",
+              "RelativeToolTip": "03\\learn3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-10T04:37:14.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "learn2.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn2.c",
+              "RelativeDocumentMoniker": "03\\learn2.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn2.c",
+              "RelativeToolTip": "03\\learn2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-10T04:37:10.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "learn1.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn1.c",
+              "RelativeDocumentMoniker": "03\\learn1.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\learn1.c",
+              "RelativeToolTip": "03\\learn1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-10T04:37:09.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03C.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03C.c",
+              "RelativeDocumentMoniker": "03\\03C.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03C.c",
+              "RelativeToolTip": "03\\03C.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-24T01:45:25.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03B.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03B.c",
+              "RelativeDocumentMoniker": "03\\03B.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03B.c",
+              "RelativeToolTip": "03\\03B.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-24T01:33:23.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03A.c",
+              "DocumentMoniker": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03A.c",
+              "RelativeDocumentMoniker": "03\\03A.c",
+              "ToolTip": "C:\\Users\\CD\\Desktop\\C\u8BED\u8A00\u5B66\u4E60\\03\\03\\03A.c",
+              "RelativeToolTip": "03\\03A.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-24T01:25:22.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

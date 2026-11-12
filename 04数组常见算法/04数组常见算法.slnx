@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="04数组常见算法/04数组常见算法.vcxproj" Id="d3c93f32-d833-43dc-91c9-91e31ceead88" />
+</Solution>

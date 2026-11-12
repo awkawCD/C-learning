@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="随机数练习/随机数练习.vcxproj" Id="eaee8987-26fd-487a-b4e3-c979f84d0346" />
+</Solution>
